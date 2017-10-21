@@ -1,0 +1,29 @@
+.col-sm-6 {
+  background-color: lightblue;
+  border: darkblue solid 1px;
+  height: 7.5vh;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1.2rem;
+}
+.második {
+  background-color: #e9967a;
+  border: #b22222 solid 1px;
+  height: 7.5vh;
+  text-align: center;
+  font-size: 1.2rem;
+  }
+.harmadik {
+  background-color: #98fb98;
+  border: #2e8b57 solid 1px;
+  text-align: center;
+  height: 9vh;
+  font-size: 1.2rem;
+}
+.közép {
+  background-color: #5f9ea0;
+  border: teal;
+  height: 7.5vh;
+  text-align: center;
+  font-size: 1.2rem;
+}
